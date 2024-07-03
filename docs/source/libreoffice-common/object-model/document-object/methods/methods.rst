@@ -9,3 +9,4 @@ This section contains the following methods:
    :maxdepth: 7
 
    getcurrentcontroller/getcurrentcontroller
+   supportsservice/supportsservice
