@@ -1,7 +1,7 @@
 Document.GetCurrentController method (LibreOffice common)
 =========================================================
 
-Returns the current controller (the LibreOffice application, for example Calc or Writer) that controls the Document object. The properties and methods available through ThisComponent depend on the document type.
+Returns the current Controller (the LibreOffice application, for example Calc or Writer) that controls the Document object. The properties and methods available through the Controller object depend on the Controller type.
 
 Syntax
 ------
@@ -9,6 +9,11 @@ Syntax
 *expression*. ``GetCurrentController``
 
 *expression* A variable that represents a Document object. Can also be the ``ThisComponent`` object.
+
+Return value
+------------
+
+Object. The Controller object that currently controls the Document object.
 
 Examples
 --------
