@@ -1,9 +1,6 @@
-Template for the Read the Docs tutorial
-=======================================
+Ray Culp's Unofficial LibreOffice Basic Reference
+=================================================
 
-This GitHub template includes fictional Python library
-with some basic Sphinx docs.
+This GitHub repo contains the source files for the documentation project here:
 
-Read the tutorial here:
-
-https://docs.readthedocs.io/en/stable/tutorial/
+https://libreoffice-basic-reference.readthedocs.io

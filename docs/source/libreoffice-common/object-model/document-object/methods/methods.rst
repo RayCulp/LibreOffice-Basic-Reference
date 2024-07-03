@@ -1,7 +1,7 @@
 Methods
 =======
 
-This section contains the methods.
+This section contains the following methods:
 
 .. toctree::
    :titlesonly:
