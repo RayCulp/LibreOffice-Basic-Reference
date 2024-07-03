@@ -57,7 +57,7 @@ Boolean. Returns ``True`` if the Document object is of the type specified by the
 Remarks
 -------
 
-To avoid runtime errors, use this method to determine the type of the Document object before executing other methods or querying properties that are specific to an individual document type.
+Use this method to avoid runtime errors by determining the type of the Document object *before* executing other methods or querying properties that are specific to individual document types.
 
 Examples
 --------
