@@ -1,7 +1,7 @@
 Document.SupportsService method (LibreOffice common)
 =========================================================
 
-Determines whether the Documnt object is the type of LibreOffice document specified by the ``_ServiceName_`` parameter, for example a Calc spreadsheet, a Writer document or an Impress presentation.
+Determines whether the Document object is of the type specified by the ``_ServiceName_`` parameter, for example a Calc spreadsheet, a Writer document or an Impress presentation.
 
 Syntax
 ------
