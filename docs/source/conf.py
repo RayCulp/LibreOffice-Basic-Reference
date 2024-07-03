@@ -2,9 +2,9 @@
 
 # -- Project information
 
-project = 'Lumache'
-copyright = '2021, Graziella'
-author = 'Graziella'
+project = 'LibreOffice Basic Reference'
+copyright = '2024, Ray Culp'
+author = 'Ray Culp'
 
 release = '0.1'
 version = '0.1.0'
@@ -29,7 +29,15 @@ templates_path = ['_templates']
 
 # -- Options for HTML output
 
+# html_theme = 'furo'
 html_theme = 'sphinx_rtd_theme'
+html_theme_options = {
+    'collapse_navigation': False,  # Keeps the navigation expanded
+    'navigation_depth': 7,         # Adjust this based on your TOC depth
+    'titles_only': True,          # Show all titles in the TOC
+}
 
 # -- Options for EPUB output
 epub_show_urls = 'footnote'
+
+

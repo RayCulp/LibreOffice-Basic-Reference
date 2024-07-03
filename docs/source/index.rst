@@ -1,22 +1,26 @@
-Welcome to Lumache's documentation!
-===================================
+Ray Culp's Unofficial LibreOffice Basic Reference
+=================================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+Why this documentation?
+-----------------------
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+This documentation is intended for persons who are interested in programming LibreOffice Basic. It borrows many concepts from the excellent `Microsoft Visual Basic for Applications (VBA) Documentation <https://learn.microsoft.com/en-us/office/vba/api/overview/>`_. 
 
 .. note::
 
-   This project is under active development.
+   As of 2024-07-03, this project is still a work-in-progress and extremely incomplete.
+
+What is LibreOffice Basic?
+--------------------------
+
+LibreOffice Basic is a programming language that is part of the `LibreOffice suite <https://www.libreoffice.org/>`_. It allows a programmer to automate tasks and extend the functionality of LibreOffice applications such as Writer, Calc, Impress, and Draw. 
 
 Contents
 --------
 
 .. toctree::
+   :titlesonly:
+   :maxdepth: 7
 
-   usage
-   api
+   libreoffice-basic-vs-vba/libreoffice-basic-vs-vba
+   libreoffice-common/libreoffice-common
