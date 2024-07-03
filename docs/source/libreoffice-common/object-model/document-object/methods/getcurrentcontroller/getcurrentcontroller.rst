@@ -10,11 +10,6 @@ Syntax
 
 *expression* A variable that represents a Document object. Can also be the ``ThisComponent`` object.
 
-Remarks
--------
-
-Calling this method is equivalent to choosing the sheet's tab.
-
 Examples
 --------
 
