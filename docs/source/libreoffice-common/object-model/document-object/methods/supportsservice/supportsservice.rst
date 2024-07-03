@@ -57,7 +57,7 @@ Boolean. Returns ``True`` if the Document object is of the type specified by the
 Remarks
 -------
 
-Use this method to avoid runtime errors by determining the type of the Document object *before* executing other methods or querying properties that are specific to individual document types.
+Use this method to avoid runtime errors by determining the type of the Document object *before* attempting to execute other methods or get/set properties that are specific to individual document types.
 
 Examples
 --------
@@ -65,8 +65,13 @@ Examples
 .. code-block:: Basic
    
    ' Declarations
+      
+      Dim oDoc As Object
+      Dim sDocumentType As String
+
+   ' Set oDoc to the active document
    
-      Dim sDocumentType As String 
+      oDoc = ThisComponent
       
    ' Use the SupportsService method to check if the document supports a specific service name
    ' The service name indicates the type of the document, such as text, spreadsheet, presentation, or database
@@ -98,6 +103,11 @@ Examples
          GetDocumentType = "UNKNOWN"
          
       End Select
+
+   ' Display the detected document type in a message box
+
+      MsgBox ("The document type is: " & sDocumentType)
+
 
 
 .. toctree::
