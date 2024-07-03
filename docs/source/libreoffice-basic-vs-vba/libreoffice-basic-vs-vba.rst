@@ -10,7 +10,10 @@ LibreOffice Basic language features and syntax are almost identical to VBA, so V
 
 Some notable differences include LibreOffice Basic's lack of (native) support for user-defined enumerations and class modules. 
 
-However, LibreOffice Basic includes two compiler directives that add varying degrees of support for features that are otherwise specific to VBA: ``Option Compatible`` and ``Option VBASupport 1``
+However, LibreOffice Basic includes two compiler options that add two different levels of support for features that are otherwise specific to VBA: 
+
+- ``Option Compatible``: Extends LibreOffice Basic compiler and runtime, allowing supplemental language constructs to Basic.
+- ``Option VBASupport 1``: Allows LibreOffice Basic to support some VBA statements, functions and objects.
 
 The IDE
 -------

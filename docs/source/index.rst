@@ -4,7 +4,12 @@ Ray Culp's Unofficial LibreOffice Basic Reference
 Why this documentation?
 -----------------------
 
-This documentation is intended for persons who are interested in programming LibreOffice Basic. It borrows many concepts from the excellent `Microsoft Visual Basic for Applications (VBA) Documentation <https://learn.microsoft.com/en-us/office/vba/api/overview/>`_. 
+This documentation project has two goals:
+
+- To **fully** document the LibreOffice Basic programming language and the LibreOffice API *from the perspective of the Basic language*.
+- To help VBA programmers who are interested in learning how to extend the functionality of LibreOffice using Basic. 
+
+This documentation is inspired by the outstanding `Microsoft Visual Basic for Applications (VBA) Documentation <https://learn.microsoft.com/en-us/office/vba/api/overview/>`_. 
 
 .. note::
 
