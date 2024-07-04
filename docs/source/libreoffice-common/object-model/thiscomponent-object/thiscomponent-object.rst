@@ -25,7 +25,7 @@ Examples
 Remarks
 -------
 
-If ThisComponent is used in a macro contained in a specific LibreOffice document, then it refers to the containing document. If ThisComponent is used in a macro that is stored in the **System and User Basic Macro Storage ("My Macros & Dialogs")**, then it refers to the active document (the foreground document). 
+If ThisComponent is used in a macro contained in a specific LibreOffice document, then it refers to the containing document. If ThisComponent is used in a macro that is stored in the **System and User Basic Macro Storage ("My Macros & Dialogs")**, then it refers to the active (foreground) document. 
 
 .. toctree::
    :titlesonly:

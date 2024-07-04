@@ -8,5 +8,5 @@ This section contains the following methods:
    :glob:
    :maxdepth: 7
 
-   getcurrentcontroller/getcurrentcontroller
-   supportsservice/supportsservice
+   getcurrentcontroller
+   supportsservice

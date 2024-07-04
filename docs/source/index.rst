@@ -6,8 +6,8 @@ Why this documentation?
 
 This documentation project has two goals:
 
-- To **fully** document the LibreOffice Basic programming language and the LibreOffice API *from the perspective of the Basic language*.
-- To help VBA programmers who are interested in learning how to extend the functionality of LibreOffice using Basic. 
+- To **fully** document the LibreOffice Basic programming language and the LibreOffice API **from the perspective of a Basic programmer**.
+- To help programmers familiar with Microsoft Visual Basic for Applications (VBA) to get started with LibreOffice Basic. 
 
 This documentation is inspired by the outstanding `Microsoft Visual Basic for Applications (VBA) Documentation <https://learn.microsoft.com/en-us/office/vba/api/overview/>`_. 
 
