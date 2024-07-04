@@ -32,7 +32,7 @@ templates_path = ['_templates']
 # html_theme = 'furo'
 html_theme = 'sphinx_rtd_theme'
 html_theme_options = {
-    'collapse_navigation': True,  # Keeps the navigation expanded
+    'collapse_navigation': False,  # Keeps the navigation expanded
     'navigation_depth': 10,         # Adjust this based on your TOC depth
     'titles_only': True,          # Show all titles in the TOC
 }
