@@ -27,6 +27,8 @@ intersphinx_disabled_domains = ['std']
 
 templates_path = ['_templates']
 
+html_static_path = ['_static']
+
 # -- Options for HTML output
 
 # html_theme = 'furo'
@@ -36,6 +38,9 @@ html_theme_options = {
     'navigation_depth': 10,         # Adjust this based on your TOC depth
     'titles_only': True,          # Show all titles in the TOC
 }
+
+def setup(app):
+    app.add_css_file('css/custom.css')
 
 # -- Options for EPUB output
 epub_show_urls = 'footnote'

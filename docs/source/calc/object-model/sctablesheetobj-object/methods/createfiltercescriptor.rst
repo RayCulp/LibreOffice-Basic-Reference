@@ -20,6 +20,7 @@ Parameters
 .. list-table::
    :widths: 25 25 25 25
    :header-rows: 1
+   :class: tight-table
 
    * - Name
      - Required/Optional
