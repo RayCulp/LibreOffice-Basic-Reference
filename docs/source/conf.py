@@ -39,8 +39,7 @@ html_theme_options = {
     'titles_only': True,          # Show all titles in the TOC
 }
 
-def setup(app):
-    app.add_css_file('css/custom.css')
+html_css_files = ['css/custom.css']
 
 # -- Options for EPUB output
 epub_show_urls = 'footnote'
