@@ -1,6 +1,8 @@
 LibreOffice Basic vs. VBA
 =========================
 
+This is new text.
+
 Programmers familiar with `Microsoft Visual Basic for Applications (VBA) <https://learn.microsoft.com/en-us/office/vba/api/overview/>`_ will immediately notice many similarities when they begin to program in LibreOffice Basic. However, there are also some key differences. Here is what a VBA programmer should expect when learning to program LibreOffice Basic.
 
 The language
