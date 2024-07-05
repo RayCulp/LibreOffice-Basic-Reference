@@ -1,9 +1,17 @@
-Ray Culp's Unofficial LibreOffice Basic Reference
-=================================================
+Ray Culp's Very Unofficial LibreOffice Basic Reference
+======================================================
+
+.. note::
+   
+   **TRADEMARK NOTICE** 
+   LibreOffice® is a registered trademark of The Document Foundation. Microsoft Office® and Visual Basic for Applications® are registered trademarks of Microsoft Corporation. All other trademarks referenced in this documentation are the property of their respective owners.
 
 .. note::
 
-   This project is still a work-in-progress and extremely incomplete.
+   **DISCLAIMER** 
+   This project is not affiliated with, supported by or endorsed by `The Document Foundation <https://www.documentfoundation.org/>`_ in any way. It is my own personal project, I am not compensated for it, and while I have taken the utmost care in preparing it, it is provided without any claim of correctness, completeness or suitability for any purpose.
+
+
 
 Purpose of this documentation
 -----------------------------
