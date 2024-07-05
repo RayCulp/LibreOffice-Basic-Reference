@@ -40,16 +40,18 @@ Service names (document types)
 
    * - Name
      - Document type
+   * - com.sun.star.document.OfficeDocument
+     - Generic LibreOffice document
    * - com.sun.star.sdb.OfficeDatabaseDocument
-     - Base
+     - Base database
    * - com.sun.star.sheet.SpreadsheetDocument
-     - Calc
+     - Calc spreadsheet
    * - com.sun.star.drawing.DrawingDocument
-     - Draw
+     - Draw drawing
    * - com.sun.star.presentation.PresentationDocument
-     - Impress
+     - Impress presentation
    * - com.sun.star.text.TextDocument
-     - Writer
+     - Writer document
 
 Return value
 ------------
