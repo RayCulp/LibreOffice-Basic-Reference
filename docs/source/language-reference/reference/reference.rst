@@ -9,3 +9,4 @@ This section covers the Basic language reference.
    :maxdepth: 7
    
    functions/functions
+   objects/objects
