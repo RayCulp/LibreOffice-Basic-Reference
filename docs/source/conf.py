@@ -39,6 +39,10 @@ html_theme_options = {
     'titles_only': True,          # Show all titles in the TOC
 }
 
+extensions = [
+    'sphinx_copybutton'
+]
+
 html_css_files = ['css/custom.css']
 
 # -- Options for EPUB output
