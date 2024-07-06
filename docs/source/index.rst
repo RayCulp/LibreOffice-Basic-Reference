@@ -31,7 +31,7 @@ This documentation is inspired by the outstanding `Microsoft Visual Basic for Ap
 .. note::
    
    **COPYRIGHT / LICENSE** 
-   This work is licensed under the `Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International Public License <license/license>`_. TL\:DR: Yes, you can use my stuff, but you can't pretend it's your stuff, and you can't make money off of stuff I made for free.
+   This work is licensed under the :doc:`Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International Public License <license/license>`. TL:DR Yes, you can use my stuff, but you can't pretend it's your stuff, and you can't make money off of stuff I made for free.
 
 Contents
 --------
