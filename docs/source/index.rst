@@ -1,18 +1,6 @@
 Ray Culp's Very Unofficial LibreOffice Basic Reference
 ======================================================
 
-.. note::
-   
-   **TRADEMARK NOTICE** 
-   LibreOffice® is a registered trademark of The Document Foundation. Microsoft Office® and Visual Basic for Applications® are registered trademarks of Microsoft Corporation. All other trademarks referenced in this documentation are the property of their respective owners.
-
-.. note::
-
-   **DISCLAIMER** 
-   This project is not affiliated with, supported by or endorsed by `The Document Foundation <https://www.documentfoundation.org/>`_ in any way. It is my own personal project, I am not compensated for it, and while I have taken the utmost care in preparing it, it is provided without any claim of correctness, completeness or suitability for any purpose.
-
-
-
 Purpose of this documentation
 -----------------------------
 
@@ -30,6 +18,21 @@ While it is true that the OpenOffice API is very similar to the LibreOffice API,
 
 This documentation is inspired by the outstanding `Microsoft Visual Basic for Applications (VBA) Documentation <https://learn.microsoft.com/en-us/office/vba/api/overview/>`_. Microsoft's business practices may suck, but its documentation rocks.
 
+.. note::
+   
+   **TRADEMARK NOTICE** 
+   LibreOffice® is a registered trademark of The Document Foundation. Microsoft Office® and Visual Basic for Applications® are registered trademarks of Microsoft Corporation. All other trademarks referenced in this documentation are the property of their respective owners.
+
+.. note::
+
+   **DISCLAIMER** 
+   This project is not affiliated with, supported by or endorsed by `The Document Foundation <https://www.documentfoundation.org/>`_ in any way. It is my own personal project, I am not compensated for it, and while I have taken the utmost care in preparing it, it is provided without any claim of correctness, completeness or suitability for any purpose.
+
+.. note::
+   
+   **COPYRIGHT / LICENSE** 
+   This work is licensed under the `Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International Public License <license/license>`_. TL\:DR: Yes, you can use my stuff, but you can't pretend it's your stuff, and you can't make money off of stuff I made for free.
+
 Contents
 --------
 
@@ -41,3 +44,4 @@ Contents
    libreoffice-common/libreoffice-common
    calc/calc
    language-reference/language-reference
+   License <license/license>
