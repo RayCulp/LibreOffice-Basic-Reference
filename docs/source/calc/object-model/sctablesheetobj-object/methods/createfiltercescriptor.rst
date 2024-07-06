@@ -12,7 +12,7 @@ Syntax
 
 *expression*. ``CreateFilterDescriptor`` ( ``_Empty_`` )
 
-*expression* A variable that represents an ScTableSheetObj object.
+*expression* A variable that represents an :doc:`/calc/object-model/sctablesheetobj-object/sctablesheetobj-object`.
 
 Parameters
 ----------
