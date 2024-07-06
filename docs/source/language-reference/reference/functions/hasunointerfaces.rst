@@ -1,7 +1,7 @@
 HasUnoInterfaces function
 =========================
 
-Tests whether a Basic UNO object supports certain UNO interfaces.
+Tests whether a Basic UNO object supports one or more UNO interfaces passed as arguments.
 
 Syntax
 ------
