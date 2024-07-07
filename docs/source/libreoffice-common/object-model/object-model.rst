@@ -9,4 +9,3 @@ This section covers the object model that is common to all LibreOffice applicati
    :maxdepth: 7
    
    document-object/document-object
-   thiscomponent-object/thiscomponent-object

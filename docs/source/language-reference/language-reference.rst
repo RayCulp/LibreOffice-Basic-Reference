@@ -1,5 +1,5 @@
-Language reference for LibreOffice Basic
-========================================
+Language reference
+==================
 
 This section covers the LibreOffice Basic language reference.
 
@@ -8,4 +8,5 @@ This section covers the LibreOffice Basic language reference.
    :glob:
    :maxdepth: 7
    
+   lo-basic-vba-detailed-comparison/lo-basic-vba-detailed-comparison
    reference/reference

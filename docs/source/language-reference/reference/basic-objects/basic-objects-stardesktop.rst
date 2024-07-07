@@ -1,7 +1,7 @@
 StarDesktop object
 ==================
 
-The ``StarDesktop`` object is a predefined global variable that provides access to the ``com.sun.star.frame.Desktop`` service. It serves as a convenient shortcut to access the Desktop service without needing to explicitly create an instance of it through the Service Manager.
+The **StarDesktop** object is a predefined global variable that provides access to the **com.sun.star.frame.Desktop** service without needing to explicitly create an instance of it through the Service Manager.
 
 Syntax
 ------
@@ -11,17 +11,17 @@ Syntax
 Remarks
 -------
 
-Both ``StarDesktop`` and the ``com.sun.star.frame.Desktop`` service accessed via the Service Manager ultimately refer to the same Desktop service. Using ``StarDesktop`` is a convenient shortcut for most macro tasks, while the Service Manager approach offers more explicit control and flexibility for advanced scenarios where you need to create other services that are not globally available as shortcuts.
+Both **StarDesktop** and the **com.sun.star.frame.Desktop** service accessed via the Service Manager ultimately refer to the same Desktop service. Using **StarDesktop** is a convenient shortcut for most macro tasks, while the Service Manager approach offers more explicit control and flexibility for advanced scenarios where you need to create other services that are not globally available as shortcuts.
 
 Methods
 -------
 
-The methods of the ``StarDesktop`` object are identical to those of the com.sun.star.frame.Desktop service.
+The methods of the **StarDesktop** object are identical to those of the **com.sun.star.frame.Desktop** service.
 
 Properties
 ----------
 
-The properties of the ``StarDesktop`` object are identical to those of the com.sun.star.frame.Desktop service.
+The properties of the **StarDesktop** object are identical to those of the **com.sun.star.frame.Desktop** service.
 
 Examples
 --------

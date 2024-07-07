@@ -1,5 +1,5 @@
-Basic language reference
-========================
+Reference
+=========
 
 This section covers the Basic language reference.
 
@@ -8,5 +8,5 @@ This section covers the Basic language reference.
    :glob:
    :maxdepth: 7
    
-   functions/functions
-   objects/objects
+   basic-functions/functions
+   basic-objects/basic-objects-index
