@@ -8,5 +8,5 @@ This section covers the Basic language reference.
    :glob:
    :maxdepth: 7
    
-   basic-functions/functions
+   basic-functions/basic-functions-index
    basic-objects/basic-objects-index

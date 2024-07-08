@@ -8,4 +8,6 @@ This section covers the following functions.
    :glob:
    :maxdepth: 7
    
-   hasunointerfaces
+   basic-functions-overview
+   basic-functions-createunoservice
+   basic-functions-hasunointerfaces
