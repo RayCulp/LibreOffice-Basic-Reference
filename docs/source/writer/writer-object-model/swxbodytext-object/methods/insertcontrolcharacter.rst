@@ -29,7 +29,7 @@ Parameters
    * - *_ControlCharacter_*
      - Required
      - Short
-     - Must be of the predefined constants from the com.sun.star.text.ControlCharacter enumeration.
+     - Must be of the predefined constants from the :doc:`/writer/writer-object-model/enumerations/controlcharacter-enumeration`.
    * - *_Absorb_*
      - Required
      - Boolean
