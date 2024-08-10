@@ -8,4 +8,4 @@ This section covers concepts, objects, properties and methods that are specific 
    :glob:
    :maxdepth: 7
 
-   object-model/object-model
+   calc-object-model/calc-object-model
